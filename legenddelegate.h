@@ -1,0 +1,6 @@
+#ifndef LEGENDDELEGATE_H
+#define LEGENDDELEGATE_H
+
+#endif // LEGENDDELEGATE_H
+
+inter
